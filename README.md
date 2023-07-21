@@ -1,2 +1,2 @@
-# API-PHP
- POST API in PHP
+# PHP-dev
+ A repository to organize and review back developments using PHP.
